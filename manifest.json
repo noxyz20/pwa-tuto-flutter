@@ -1,0 +1,9 @@
+{
+    "name": "pwa-tuto-flutter",
+    "short_name": "tuto flutter",
+    "theme_color": "#f200ff",
+    "background_color": "#d400ff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/"
+  }
